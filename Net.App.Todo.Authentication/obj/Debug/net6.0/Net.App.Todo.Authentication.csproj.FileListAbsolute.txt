@@ -1,0 +1,12 @@
+/home/adicipta/Workspace/Net.App/Net.App.Todo/Net.App.Todo.Authentication/bin/Debug/net6.0/Net.App.Todo.Authentication.deps.json
+/home/adicipta/Workspace/Net.App/Net.App.Todo/Net.App.Todo.Authentication/bin/Debug/net6.0/Net.App.Todo.Authentication.dll
+/home/adicipta/Workspace/Net.App/Net.App.Todo/Net.App.Todo.Authentication/bin/Debug/net6.0/ref/Net.App.Todo.Authentication.dll
+/home/adicipta/Workspace/Net.App/Net.App.Todo/Net.App.Todo.Authentication/bin/Debug/net6.0/Net.App.Todo.Authentication.pdb
+/home/adicipta/Workspace/Net.App/Net.App.Todo/Net.App.Todo.Authentication/obj/Debug/net6.0/Net.App.Todo.Authentication.csproj.AssemblyReference.cache
+/home/adicipta/Workspace/Net.App/Net.App.Todo/Net.App.Todo.Authentication/obj/Debug/net6.0/Net.App.Todo.Authentication.GeneratedMSBuildEditorConfig.editorconfig
+/home/adicipta/Workspace/Net.App/Net.App.Todo/Net.App.Todo.Authentication/obj/Debug/net6.0/Net.App.Todo.Authentication.AssemblyInfoInputs.cache
+/home/adicipta/Workspace/Net.App/Net.App.Todo/Net.App.Todo.Authentication/obj/Debug/net6.0/Net.App.Todo.Authentication.AssemblyInfo.cs
+/home/adicipta/Workspace/Net.App/Net.App.Todo/Net.App.Todo.Authentication/obj/Debug/net6.0/Net.App.Todo.Authentication.csproj.CoreCompileInputs.cache
+/home/adicipta/Workspace/Net.App/Net.App.Todo/Net.App.Todo.Authentication/obj/Debug/net6.0/Net.App.Todo.Authentication.dll
+/home/adicipta/Workspace/Net.App/Net.App.Todo/Net.App.Todo.Authentication/obj/Debug/net6.0/ref/Net.App.Todo.Authentication.dll
+/home/adicipta/Workspace/Net.App/Net.App.Todo/Net.App.Todo.Authentication/obj/Debug/net6.0/Net.App.Todo.Authentication.pdb

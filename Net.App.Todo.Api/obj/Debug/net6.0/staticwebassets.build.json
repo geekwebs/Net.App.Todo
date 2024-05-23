@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lW3q8ovkconBC3J3xFE805iBISkNrNujhM14cWP3ptk=",
+  "Source": "Net.App.Todo.Api",
+  "BasePath": "_content/Net.App.Todo.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

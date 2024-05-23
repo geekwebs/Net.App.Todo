@@ -1,0 +1,40 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/adicipta/Workspace/Net.App/Net.App.Todo/Net.App.Todo.Models/Net.App.Todo.Models.csproj",
+    "projectName": "Net.App.Todo.Models",
+    "projectPath": "/home/adicipta/Workspace/Net.App/Net.App.Todo/Net.App.Todo.Models/Net.App.Todo.Models.csproj",
+    "outputPath": "/home/adicipta/Workspace/Net.App/Net.App.Todo/Net.App.Todo.Models/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "net60"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp6.0": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp6.0": {
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

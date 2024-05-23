@@ -1,0 +1,3 @@
+/home/adicipta/Workspace/Net.App/Net.App.Todo/publish/Net.App.Todo.Models.dll
+/home/adicipta/Workspace/Net.App/Net.App.Todo/publish/Net.App.Todo.Models.deps.json
+/home/adicipta/Workspace/Net.App/Net.App.Todo/publish/Net.App.Todo.Models.pdb

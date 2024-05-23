@@ -1,0 +1,65 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/adicipta/Workspace/Net.App/Net.App.Todo/Net.App.Todo.Api/Net.App.Todo.Api.csproj",
+    "projectName": "Net.App.Todo.Api",
+    "projectPath": "/home/adicipta/Workspace/Net.App/Net.App.Todo/Net.App.Todo.Api/Net.App.Todo.Api.csproj",
+    "outputPath": "/home/adicipta/Workspace/Net.App/Net.App.Todo/Net.App.Todo.Api/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "net60"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp6.0": {
+        "projectReferences": {
+          "/home/adicipta/Workspace/Net.App/Net.App.Todo/Net.App.Todo.Authentication/Net.App.Todo.Authentication.csproj": {
+            "projectPath": "/home/adicipta/Workspace/Net.App/Net.App.Todo/Net.App.Todo.Authentication/Net.App.Todo.Authentication.csproj"
+          },
+          "/home/adicipta/Workspace/Net.App/Net.App.Todo/Net.App.Todo.Models/Net.App.Todo.Models.csproj": {
+            "projectPath": "/home/adicipta/Workspace/Net.App/Net.App.Todo/Net.App.Todo.Models/Net.App.Todo.Models.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp6.0": {
+      "dependencies": {
+        "Microsoft.AspNetCore.Authentication": {
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
+        "Microsoft.AspNetCore.Authentication.JwtBearer": {
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
+        "Swashbuckle.AspNetCore": {
+          "target": "Package",
+          "version": "[6.5.0, )"
+        },
+        "System.IdentityModel.Tokens.Jwt": {
+          "target": "Package",
+          "version": "[6.11.1, )"
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
