@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/adicipta/Workspace/Net.App/Net.App.Todo/Net.App.Todo.Models/Net.App.Todo.Models.csproj": {}
+    "D:\\BACKUP\\Net.App\\Net.App.Todo\\Net.App.Todo.Models\\Net.App.Todo.Models.csproj": {}
   },
   "projects": {
-    "/home/adicipta/Workspace/Net.App/Net.App.Todo/Net.App.Todo.Models/Net.App.Todo.Models.csproj": {
+    "D:\\BACKUP\\Net.App\\Net.App.Todo\\Net.App.Todo.Models\\Net.App.Todo.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/adicipta/Workspace/Net.App/Net.App.Todo/Net.App.Todo.Models/Net.App.Todo.Models.csproj",
+        "projectUniqueName": "D:\\BACKUP\\Net.App\\Net.App.Todo\\Net.App.Todo.Models\\Net.App.Todo.Models.csproj",
         "projectName": "Net.App.Todo.Models",
-        "projectPath": "/home/adicipta/Workspace/Net.App/Net.App.Todo/Net.App.Todo.Models/Net.App.Todo.Models.csproj",
-        "packagesPath": "/home/adicipta/.nuget/packages/",
-        "outputPath": "/home/adicipta/Workspace/Net.App/Net.App.Todo/Net.App.Todo.Models/obj/",
+        "projectPath": "D:\\BACKUP\\Net.App\\Net.App.Todo\\Net.App.Todo.Models\\Net.App.Todo.Models.csproj",
+        "packagesPath": "C:\\Users\\kusne\\.nuget\\packages\\",
+        "outputPath": "D:\\BACKUP\\Net.App\\Net.App.Todo\\Net.App.Todo.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/adicipta/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\kusne\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -43,7 +43,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -52,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.128/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.423\\RuntimeIdentifierGraph.json"
         }
       }
     }

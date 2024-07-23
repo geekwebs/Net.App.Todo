@@ -5,14 +5,15 @@ using Net.App.Todo.Models;
 namespace Net.App.Todo.Api.Controllers;
 
 [ApiController]
-[Route("[controller]")]
+[Route("api/todos")]
 [Authorize]
 public class TodoController : ControllerBase
 {
     private static readonly List<TodoX> Todos = new()
     {
         new TodoX {Id = 1, Title = "Sample Todo 1", IsCompleted = false},
-        new TodoX {Id = 2, Title = "Sample Todo 2", IsCompleted = true} 
+        new TodoX {Id = 2, Title = "Sample Todo 2", IsCompleted = true},
+        new TodoX {Id = 3, Title = "Sample Todo 3", IsCompleted = false},
     };
     
     [HttpGet]

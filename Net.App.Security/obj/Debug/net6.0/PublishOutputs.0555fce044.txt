@@ -1,0 +1,3 @@
+D:\BACKUP\Net.App\Net.App.Todo\Net.App.Security\bin\Debug\net6.0\publish\Net.App.Security.dll
+D:\BACKUP\Net.App\Net.App.Todo\Net.App.Security\bin\Debug\net6.0\publish\Net.App.Security.deps.json
+D:\BACKUP\Net.App\Net.App.Todo\Net.App.Security\bin\Debug\net6.0\publish\Net.App.Security.pdb

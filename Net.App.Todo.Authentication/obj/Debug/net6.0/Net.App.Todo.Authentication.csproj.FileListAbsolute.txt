@@ -10,3 +10,15 @@
 /home/adicipta/Workspace/Net.App/Net.App.Todo/Net.App.Todo.Authentication/obj/Debug/net6.0/Net.App.Todo.Authentication.dll
 /home/adicipta/Workspace/Net.App/Net.App.Todo/Net.App.Todo.Authentication/obj/Debug/net6.0/ref/Net.App.Todo.Authentication.dll
 /home/adicipta/Workspace/Net.App/Net.App.Todo/Net.App.Todo.Authentication/obj/Debug/net6.0/Net.App.Todo.Authentication.pdb
+D:\BACKUP\Net.App\Net.App.Todo\Net.App.Todo.Authentication\bin\Debug\net6.0\Net.App.Todo.Authentication.deps.json
+D:\BACKUP\Net.App\Net.App.Todo\Net.App.Todo.Authentication\bin\Debug\net6.0\Net.App.Todo.Authentication.dll
+D:\BACKUP\Net.App\Net.App.Todo\Net.App.Todo.Authentication\bin\Debug\net6.0\Net.App.Todo.Authentication.pdb
+D:\BACKUP\Net.App\Net.App.Todo\Net.App.Todo.Authentication\obj\Debug\net6.0\Net.App.Todo.Authentication.csproj.AssemblyReference.cache
+D:\BACKUP\Net.App\Net.App.Todo\Net.App.Todo.Authentication\obj\Debug\net6.0\Net.App.Todo.Authentication.GeneratedMSBuildEditorConfig.editorconfig
+D:\BACKUP\Net.App\Net.App.Todo\Net.App.Todo.Authentication\obj\Debug\net6.0\Net.App.Todo.Authentication.AssemblyInfoInputs.cache
+D:\BACKUP\Net.App\Net.App.Todo\Net.App.Todo.Authentication\obj\Debug\net6.0\Net.App.Todo.Authentication.AssemblyInfo.cs
+D:\BACKUP\Net.App\Net.App.Todo\Net.App.Todo.Authentication\obj\Debug\net6.0\Net.App.Todo.Authentication.csproj.CoreCompileInputs.cache
+D:\BACKUP\Net.App\Net.App.Todo\Net.App.Todo.Authentication\obj\Debug\net6.0\Net.App.Todo.Authentication.dll
+D:\BACKUP\Net.App\Net.App.Todo\Net.App.Todo.Authentication\obj\Debug\net6.0\refint\Net.App.Todo.Authentication.dll
+D:\BACKUP\Net.App\Net.App.Todo\Net.App.Todo.Authentication\obj\Debug\net6.0\Net.App.Todo.Authentication.pdb
+D:\BACKUP\Net.App\Net.App.Todo\Net.App.Todo.Authentication\obj\Debug\net6.0\ref\Net.App.Todo.Authentication.dll

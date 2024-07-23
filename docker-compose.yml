@@ -1,0 +1,38 @@
+version: '3'
+
+services:
+  # KrakenD service with krakend.json config
+  krakend:
+    image: devopsfaith/krakend:2.6.3
+    ports:
+      - "8000:8080"
+    networks:
+      - netapp-network
+    volumes:
+      - /home/adicipta/krakend:/etc/krakend  # Mount krakend.json config
+
+  # Keycloak service
+  keycloak:
+    image: quay.io/keycloak/keycloak:23.0.7
+    ports:
+      - "8080:8080"
+    environment:
+      - KEYCLOAK_ADMIN=admin
+      - KEYCLOAK_ADMIN_PASSWORD=password
+    command: ["start-dev"]
+    networks:
+      - netapp-network
+
+  # MyApp service with volume mounting
+  myapp:
+    image: kusnendi/netapp:latest  # Use the locally built image
+    ports:
+      - "80:80"
+    volumes:
+      - /home/adicipta/docker/net.app.todo:/app  # Map host directory to container path
+    networks:
+      - netapp-network
+
+networks:
+  netapp-network:
+    external: true

@@ -1,6 +1,7 @@
 /home/adicipta/Workspace/Net.App/Net.App.Todo/publish/Net.App.Todo.Api
 /home/adicipta/Workspace/Net.App/Net.App.Todo/publish/appsettings.Development.json
 /home/adicipta/Workspace/Net.App/Net.App.Todo/publish/appsettings.json
+/home/adicipta/Workspace/Net.App/Net.App.Todo/publish/uploads/appsettings.json
 /home/adicipta/Workspace/Net.App/Net.App.Todo/publish/Net.App.Todo.Api.dll
 /home/adicipta/Workspace/Net.App/Net.App.Todo/publish/Net.App.Todo.Api.deps.json
 /home/adicipta/Workspace/Net.App/Net.App.Todo/publish/Net.App.Todo.Api.runtimeconfig.json

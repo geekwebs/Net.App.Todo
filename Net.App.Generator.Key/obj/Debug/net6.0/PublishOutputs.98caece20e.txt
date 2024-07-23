@@ -1,0 +1,5 @@
+D:\BACKUP\Net.App\Net.App.Todo\Net.App.Generator.Key\bin\Debug\net6.0\publish\Net.App.Generator.Key.exe
+D:\BACKUP\Net.App\Net.App.Todo\Net.App.Generator.Key\bin\Debug\net6.0\publish\Net.App.Generator.Key.dll
+D:\BACKUP\Net.App\Net.App.Todo\Net.App.Generator.Key\bin\Debug\net6.0\publish\Net.App.Generator.Key.deps.json
+D:\BACKUP\Net.App\Net.App.Todo\Net.App.Generator.Key\bin\Debug\net6.0\publish\Net.App.Generator.Key.runtimeconfig.json
+D:\BACKUP\Net.App\Net.App.Todo\Net.App.Generator.Key\bin\Debug\net6.0\publish\Net.App.Generator.Key.pdb

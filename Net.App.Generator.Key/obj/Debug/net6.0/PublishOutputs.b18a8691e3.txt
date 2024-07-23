@@ -1,0 +1,5 @@
+/home/adicipta/Workspace/Net.App/Net.App.Todo/publish/Net.App.Generator.Key
+/home/adicipta/Workspace/Net.App/Net.App.Todo/publish/Net.App.Generator.Key.dll
+/home/adicipta/Workspace/Net.App/Net.App.Todo/publish/Net.App.Generator.Key.deps.json
+/home/adicipta/Workspace/Net.App/Net.App.Todo/publish/Net.App.Generator.Key.runtimeconfig.json
+/home/adicipta/Workspace/Net.App/Net.App.Todo/publish/Net.App.Generator.Key.pdb

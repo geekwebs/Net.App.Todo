@@ -1,0 +1,3 @@
+/home/adicipta/Workspace/Net.App/Net.App.Todo/publish/Net.App.Security.dll
+/home/adicipta/Workspace/Net.App/Net.App.Todo/publish/Net.App.Security.deps.json
+/home/adicipta/Workspace/Net.App/Net.App.Todo/publish/Net.App.Security.pdb

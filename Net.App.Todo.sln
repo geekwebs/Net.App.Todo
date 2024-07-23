@@ -9,6 +9,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Net.App.Todo.Models", "Net.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Net.App.Todo.Authentication", "Net.App.Todo.Authentication\Net.App.Todo.Authentication.csproj", "{B0AAE605-5DEE-4F20-81E0-0200C3571010}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Net.App.Consumer", "Net.App.Consumer\Net.App.Consumer.csproj", "{70E3A877-1327-48F5-8F03-FD28E20AD203}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Net.App.Generator.Key", "Net.App.Generator.Key\Net.App.Generator.Key.csproj", "{EB50743A-5981-4E93-8EFD-53578E2B2D0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Net.App.Security", "Net.App.Security\Net.App.Security.csproj", "{742B1EB4-80E9-4F12-8C13-9A036452C848}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +36,17 @@ Global
 		{B0AAE605-5DEE-4F20-81E0-0200C3571010}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0AAE605-5DEE-4F20-81E0-0200C3571010}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0AAE605-5DEE-4F20-81E0-0200C3571010}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70E3A877-1327-48F5-8F03-FD28E20AD203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70E3A877-1327-48F5-8F03-FD28E20AD203}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70E3A877-1327-48F5-8F03-FD28E20AD203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70E3A877-1327-48F5-8F03-FD28E20AD203}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB50743A-5981-4E93-8EFD-53578E2B2D0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB50743A-5981-4E93-8EFD-53578E2B2D0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB50743A-5981-4E93-8EFD-53578E2B2D0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB50743A-5981-4E93-8EFD-53578E2B2D0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{742B1EB4-80E9-4F12-8C13-9A036452C848}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{742B1EB4-80E9-4F12-8C13-9A036452C848}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{742B1EB4-80E9-4F12-8C13-9A036452C848}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{742B1EB4-80E9-4F12-8C13-9A036452C848}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

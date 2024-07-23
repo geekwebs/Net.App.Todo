@@ -10,3 +10,15 @@
 /home/adicipta/Workspace/Net.App/Net.App.Todo/Net.App.Todo.Models/obj/Debug/net6.0/Net.App.Todo.Models.dll
 /home/adicipta/Workspace/Net.App/Net.App.Todo/Net.App.Todo.Models/obj/Debug/net6.0/ref/Net.App.Todo.Models.dll
 /home/adicipta/Workspace/Net.App/Net.App.Todo/Net.App.Todo.Models/obj/Debug/net6.0/Net.App.Todo.Models.pdb
+D:\BACKUP\Net.App\Net.App.Todo\Net.App.Todo.Models\bin\Debug\net6.0\Net.App.Todo.Models.deps.json
+D:\BACKUP\Net.App\Net.App.Todo\Net.App.Todo.Models\bin\Debug\net6.0\Net.App.Todo.Models.dll
+D:\BACKUP\Net.App\Net.App.Todo\Net.App.Todo.Models\bin\Debug\net6.0\Net.App.Todo.Models.pdb
+D:\BACKUP\Net.App\Net.App.Todo\Net.App.Todo.Models\obj\Debug\net6.0\Net.App.Todo.Models.csproj.AssemblyReference.cache
+D:\BACKUP\Net.App\Net.App.Todo\Net.App.Todo.Models\obj\Debug\net6.0\Net.App.Todo.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\BACKUP\Net.App\Net.App.Todo\Net.App.Todo.Models\obj\Debug\net6.0\Net.App.Todo.Models.AssemblyInfoInputs.cache
+D:\BACKUP\Net.App\Net.App.Todo\Net.App.Todo.Models\obj\Debug\net6.0\Net.App.Todo.Models.AssemblyInfo.cs
+D:\BACKUP\Net.App\Net.App.Todo\Net.App.Todo.Models\obj\Debug\net6.0\Net.App.Todo.Models.csproj.CoreCompileInputs.cache
+D:\BACKUP\Net.App\Net.App.Todo\Net.App.Todo.Models\obj\Debug\net6.0\Net.App.Todo.Models.dll
+D:\BACKUP\Net.App\Net.App.Todo\Net.App.Todo.Models\obj\Debug\net6.0\refint\Net.App.Todo.Models.dll
+D:\BACKUP\Net.App\Net.App.Todo\Net.App.Todo.Models\obj\Debug\net6.0\Net.App.Todo.Models.pdb
+D:\BACKUP\Net.App\Net.App.Todo\Net.App.Todo.Models\obj\Debug\net6.0\ref\Net.App.Todo.Models.dll

@@ -1,0 +1,3 @@
+D:\BACKUP\Net.App\Net.App.Todo\Net.App.Todo.Models\bin\Debug\net6.0\publish\Net.App.Todo.Models.dll
+D:\BACKUP\Net.App\Net.App.Todo\Net.App.Todo.Models\bin\Debug\net6.0\publish\Net.App.Todo.Models.deps.json
+D:\BACKUP\Net.App\Net.App.Todo\Net.App.Todo.Models\bin\Debug\net6.0\publish\Net.App.Todo.Models.pdb
